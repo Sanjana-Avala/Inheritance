@@ -5,11 +5,11 @@ In this PRIMM activity, you will learn about inheritance in Object-Oriented Prog
 ## Predict
 Without running the program, examine the UML files in resources, and the program code. Answer the following questions.
 1. What does the code output?
-    > Your answer
+    > Nothing
 2. What is the connection between the Animal class and the Lion class?
-    > Your answer
+    > Lion class is a branch in the animal class and the data from lion class is tranfered to animal class
 3. What does the keyword `extends` means?
-    > Your answer
+    > Extend tranfers data from one class to another
 
 ## Run
 Run the code.
