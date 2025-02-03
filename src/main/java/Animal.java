@@ -42,7 +42,4 @@ public class Animal {
         return groupName;
     }
 
-    public String getSound() {
-        return sound;
-    }
 }
